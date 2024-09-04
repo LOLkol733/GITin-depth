@@ -8,11 +8,13 @@
 Урок 2. Работа с изменениями
 Данное домашнее задание является продолжением домашнего задания, которое вы выполняли на предыдущем семинаре в репозитории с собственным проектом.
 
-1. Просмотрите историю коммитов в своём проекте и выберите три случайных коммита. Просмотрите изменения, которые были в них сделаны.  https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/1.jpg  https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/2.jpg https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/3.jpg https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/4.jpg 
+1. Просмотрите историю коммитов в своём проекте и выберите три случайных коммита. Просмотрите изменения, которые были в них сделаны. ![Иллюстрация к проекту 1](https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/1.jpg)  ![Иллюстрация к проекту 2](https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/2.jpg)
+2. ![Иллюстрация к проекту 3](https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/3.jpg) ![Иллюстрация к проекту 4](https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/4.jpg)
 
-2. Верните эти изменения командой git revert последовательно, чтобы в итоге получилось тоже три коммита.
+3. Верните эти изменения командой git revert последовательно, чтобы в итоге получилось тоже три коммита.
+  ![Иллюстрация к проекту 5](https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/5.jpg) ![Иллюстрация к проекту 6](https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/6.jpg)
 
-3. Попробуйте отменить эти три коммита:
+5. Попробуйте отменить эти три коммита:
 * последний — командами git reset --soft и git restore;
 * предпоследний — командой git reset --mixed и git restore;
 * первый — командой git reset --hard.
