@@ -8,7 +8,7 @@
 Урок 2. Работа с изменениями
 Данное домашнее задание является продолжением домашнего задания, которое вы выполняли на предыдущем семинаре в репозитории с собственным проектом.
 
-1. Просмотрите историю коммитов в своём проекте и выберите три случайных коммита. Просмотрите изменения, которые были в них сделаны.  https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/1.jpg  https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/2.jpg https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/3.jpg
+1. Просмотрите историю коммитов в своём проекте и выберите три случайных коммита. Просмотрите изменения, которые были в них сделаны.  https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/1.jpg  https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/2.jpg https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/3.jpg https://github.com/LOLkol733/GITin-depth/blob/main/screenshot%20dz%202/4.jpg 
 
 2. Верните эти изменения командой git revert последовательно, чтобы в итоге получилось тоже три коммита.
 
