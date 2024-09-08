@@ -43,7 +43,7 @@ git remote add origin https://github.com/home-work-git/git-home-work-3.git
 
 git remote -v
 ```
-![scr-1.jpg]([https://github.com/LOLkol733/GITin-depth/blob/main/screenshotdz3/2.jpg)
+![scr-1.jpg](https://github.com/LOLkol733/GITin-depth/blob/main/screenshotdz3/2.jpg)
 
 _Отправляем содержимое локального репозитория на удалённый:_
 
